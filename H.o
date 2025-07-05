@@ -1,0 +1,4 @@
+pkg install python
+nano hello.py   # or use vim
+# Write your code: print("Hello, world!")
+python hello.py
